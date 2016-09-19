@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Slide34Problems\Slide34Problems\bin\Debug\Slide34Problems.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Slide34Problems\Slide34Problems\bin\Debug\Slide34Problems.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Slide34Problems\Slide34Problems\bin\Debug\Slide34Problems.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Slide34Problems\Slide34Problems\obj\Debug\Slide34Problems.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Slide34Problems\Slide34Problems\obj\Debug\Slide34Problems.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Slide34Problems\Slide34Problems\obj\Debug\Slide34Problems.pdb
